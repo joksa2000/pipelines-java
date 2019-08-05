@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vladimirjokovic0087/pipelines-java/_apis/build/status/joksa2000.pipelines-java?branchName=master)](https://dev.azure.com/vladimirjokovic0087/pipelines-java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
